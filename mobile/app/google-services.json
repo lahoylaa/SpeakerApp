@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "712654692223",
+    "project_id": "speaker-app-498cd",
+    "storage_bucket": "speaker-app-498cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712654692223:android:48550b15d0452e9621044a",
+        "android_client_info": {
+          "package_name": "com.example.speaker_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2iC9z95YbwGctgo6S2z0e8cDjIAvdR14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
